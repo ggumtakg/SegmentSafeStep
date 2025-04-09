@@ -10,3 +10,6 @@
 
   - 파일명 : pidstep.py
   - 모델을 bisenet에서 pidnet으로 바꾼 프로그램
+
+비고
+- [bisenet 사전학습파일 다운로드 경로](https://github.com/CoinCheung/BiSeNet)
