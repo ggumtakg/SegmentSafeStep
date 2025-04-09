@@ -5,6 +5,7 @@
    이면도로를 도보로 걷는 경우로 시나리오를 한정하면서
    인도보행영상 내 서피스 세그멘테이션, 폴리곤세그멘테이션 데이터를 적합한 데이터로 선정
    참조. 서피스세그멘테이션 카테고리별 분포 (alley -> 이면도로)
+  
    ![image.png](attachment:37bbaafa-6d33-436b-a604-d8434c258271:image.png)
 
 
@@ -17,6 +18,7 @@
   . 라벨링 검수는 직업 수동으로 진행함
   . 코드: sam_folder_10point_masked.py (SamPredictor 또는 Lableme 진행은 로컬에서 가능. 코랩에서는 불가)
 - SAM 반자동 라벨링 결과 예시
+  
   ![image](https://github.com/user-attachments/assets/d5917231-cb24-42c2-a6a6-60c363bb1626)
 
    
@@ -32,6 +34,7 @@
    . 코드 : 가중치25_Class2_파인튜닝_250408.ipynb
    . Best 모델 가중치: best_model_finetuned_epoch12.pth
    . Val Loss: 0.0823, mIoU=0.88, Acc=96.93%, F1=0.9823
+  
   ![image](https://github.com/user-attachments/assets/36a02aaa-f61e-4721-9f69-7e457a6cab16)
 
    ![image](https://github.com/user-attachments/assets/ddf54f4a-adb9-41d8-82e1-409d2536c279)
@@ -43,5 +46,6 @@
    . 앞서 훈련된 모델의 best 가중치를 통해 실제 동영상에서 보행가능영역을 구분하도록 함
    . 코드: green_zone_detail.py (동영상 저장은 코랩에서는 어려움.)
    . 동영상 예시
-     : ![image](https://github.com/user-attachments/assets/5c0792f1-bf92-4a72-b3fc-1414cc8b9dae)
+  
+     ![image](https://github.com/user-attachments/assets/5c0792f1-bf92-4a72-b3fc-1414cc8b9dae)
   
