@@ -11,5 +11,5 @@
 ![Image](https://github.com/user-attachments/assets/69d238f3-9b56-4d26-899f-bf764ecf6c34)
   
 ## 캐글링크(데이터셋 업로드, private)
-[segsafe](https://www.kaggle.com/datasets/oochurljeong/smpl-cityscape)
-[polyseg](https://www.kaggle.com/datasets/oochurljeong/polyseg-indobohaeng)
+- [segsafe](https://www.kaggle.com/datasets/oochurljeong/smpl-cityscape)
+- [polyseg](https://www.kaggle.com/datasets/oochurljeong/polyseg-indobohaeng)
