@@ -11,17 +11,16 @@
 
    
 2. 데이터 라벨링
-- 22개 클래스인 서피스 세그멘테이션 이미지를 보행가능영역/보행불가영역으로 레이블링함(약 18500장)
+- 서피스 세그멘테이션의 22개 클래스를 보행가능/보행불가능 영역인 2개 클래스로 레이블링함(약 18500장)
 - 장애물을 detection한 폴리곤 세그멘테이션 이미지중 이면도로가 포함된 이미지 활용
   . SAM을 이용한 반자동 라벨링 1000장 
   . SAM + Point Prompt로 이면도로 마스크 생성
   . 라벨링 검수는 직업 수동으로 진행함
   . 코드: sam_folder_10point_masked.py (SamPredictor 또는 Lableme 진행은 로컬에서 가능. 코랩에서는 불가)
 - SAM 반자동 라벨링 결과 예시
-  
-  ![image](https://github.com/user-attachments/assets/d5917231-cb24-42c2-a6a6-60c363bb1626)
 
-   
+  ![image](https://github.com/user-attachments/assets/d556c91d-e729-4628-bc2e-ea607ed8c6b4)
+ 
 
 3. 모델 훈련 및 결과
 - 라벨링된 데이터의 정확도 확인을 위한 모델 훈련 및 결과
