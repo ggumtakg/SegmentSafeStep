@@ -6,8 +6,8 @@
    인도보행영상 내 서피스 세그멘테이션, 폴리곤세그멘테이션 데이터를 적합한 데이터로 선정
   
    참조. 서피스세그멘테이션 카테고리별 분포 (alley -> 이면도로)
-  
-   ![image](https://github.com/user-attachments/assets/dae53233-c47f-4134-8190-0fe9a3feb01e)
+     
+   ![image](https://github.com/user-attachments/assets/18a2cca7-7ca7-4ed2-860e-53b9a4e170d4)
 
 
    
