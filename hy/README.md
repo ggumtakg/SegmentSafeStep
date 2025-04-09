@@ -4,9 +4,10 @@
 - 인도보행영상, 1인칭 시점 보행영상, 배리어프리존 주행영상이 적합하였으나,
    이면도로를 도보로 걷는 경우로 시나리오를 한정하면서
    인도보행영상 내 서피스 세그멘테이션, 폴리곤세그멘테이션 데이터를 적합한 데이터로 선정
+  
    참조. 서피스세그멘테이션 카테고리별 분포 (alley -> 이면도로)
   
-   ![image.png](attachment:37bbaafa-6d33-436b-a604-d8434c258271:image.png)
+   ![image](https://github.com/user-attachments/assets/dae53233-c47f-4134-8190-0fe9a3feb01e)
 
 
    
