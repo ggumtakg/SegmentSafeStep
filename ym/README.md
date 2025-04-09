@@ -10,6 +10,11 @@
 
   - 파일명 : pidstep.py
   - 모델을 bisenet에서 pidnet으로 바꾼 프로그램
+ 
+  - 파일명 : imagestream.py
+  - cityscapes시연용 stuttgart 이미지를 영상처럼 재생하는 프로그램(약 30프레임)
 
 비고
-- [bisenet 사전학습파일 다운로드 경로](https://github.com/CoinCheung/BiSeNet)
+- 각 모델 가중치는 아래 깃헙에서 다운받아 사용했습니다.
+- [bisenet github](https://github.com/CoinCheung/BiSeNet)
+- [pidnet github](https://github.com/XuJiacong/PIDNet)
