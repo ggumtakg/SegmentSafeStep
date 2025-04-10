@@ -48,3 +48,7 @@
 - 코드: green_zone_detail.py (동영상 저장은 코랩에서는 어려움.)
    
      ![image](https://github.com/user-attachments/assets/b2bfb555-57c6-4abe-8674-e18733b6191c)
+
+     
+     https://github.com/user-attachments/assets/0b25bfa4-2aab-43d7-b972-349e01b36370
+
