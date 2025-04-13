@@ -18,8 +18,8 @@
   - 파일명 : imagestream.py
   - cityscapes시연용 stuttgart 이미지를 영상처럼 재생하는 프로그램(약 30프레임)
 <br/><br/>
-비고
-- 각 모델 가중치는 아래 깃헙에서 다운받아 사용했습니다.
-- [bisenet github](https://github.com/CoinCheung/BiSeNet)
-- [pidnet github](https://github.com/XuJiacong/PIDNet)
-- [depth_anything_v2](https://github.com/DepthAnything/Depth-Anything-V2)
+- 비고
+  - 각 모델 가중치는 아래 깃헙에서 다운받아 사용했습니다.
+  - [bisenet github](https://github.com/CoinCheung/BiSeNet)
+  - [pidnet github](https://github.com/XuJiacong/PIDNet)
+  - [depth_anything_v2](https://github.com/DepthAnything/Depth-Anything-V2)
