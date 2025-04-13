@@ -11,6 +11,9 @@
   - 파일명 : pidstep.py
   - 모델을 bisenet에서 pidnet으로 바꾼 프로그램
  
+  - 파일명 : bisestep.py
+  - bisenetv2+depth_anything_v2_vits 를 통해 깊이비례 보행가능구역 세그먼테이션(1070ti에서 약 13프레임)
+ 
   - 파일명 : imagestream.py
   - cityscapes시연용 stuttgart 이미지를 영상처럼 재생하는 프로그램(약 30프레임)
 
@@ -18,3 +21,4 @@
 - 각 모델 가중치는 아래 깃헙에서 다운받아 사용했습니다.
 - [bisenet github](https://github.com/CoinCheung/BiSeNet)
 - [pidnet github](https://github.com/XuJiacong/PIDNet)
+- [depth_anything_v2](https://github.com/DepthAnything/Depth-Anything-V2)
