@@ -7,17 +7,17 @@
 - 시연용 프로그램
   - 파일명 : segstep.py
   - PyQt를 사용하여 세그먼테이션 모델을 카메라를 통해 실시간 인퍼런스하는 앱
-
+  
   - 파일명 : pidstep.py
   - 모델을 bisenet에서 pidnet으로 바꾼 프로그램
- 
+   
   - 파일명 : bisestep.py
   - bisenetv2+depth_anything_v2_vits 를 통해 깊이비례 보행가능구역 세그먼테이션(1070ti에서 약 13프레임)
   - ![Image](https://github.com/user-attachments/assets/1fac894e-f38c-40b9-9d03-31256cbf916d)
- 
+   
   - 파일명 : imagestream.py
   - cityscapes시연용 stuttgart 이미지를 영상처럼 재생하는 프로그램(약 30프레임)
-
+  
 비고
 - 각 모델 가중치는 아래 깃헙에서 다운받아 사용했습니다.
 - [bisenet github](https://github.com/CoinCheung/BiSeNet)
